@@ -45,6 +45,4 @@ Data → Cleaning → EDA → Model Training → Prediction → Dashboard Visual
 Pull requests and suggestions are welcome!
 Feel free to fork and enhance the system.
 
-📄 License
 
-Licensed under the MIT License.
